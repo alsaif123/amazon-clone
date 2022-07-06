@@ -1,0 +1,62 @@
+.header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+ 
+}
+.header_logo{
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.search_input{
+  
+   padding-right: 30px;
+    
+}
+ .input_btn{
+    background-color: orange;
+    color: black
+}   
+.input_btn:hover{
+    color: white;
+    background-color: orange;
+}
+
+.header_seach{
+    display: flex;
+
+}
+.header_input{
+    height: 30px;
+    margin-top: 2px;
+    padding-bottom: 10px;
+    border: none;
+   
+} 
+.text-white{
+    margin-right: 10px;
+}
+.first_text{
+    font-size: 15px;
+}
+.second_text{
+    font-size: 18px;
+
+}
+.header_basket{
+    margin-right: 10px;
+}
+.second_img{
+    width: 23px;
+   
+}
+.quantity{
+    margin-left: 6px;
+}
+
+
